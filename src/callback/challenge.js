@@ -69,3 +69,7 @@ fetchData(`${API}/products`, function(error1, data1){
 //   Generic Fresh Computer
 //   Others
   
+
+
+
+

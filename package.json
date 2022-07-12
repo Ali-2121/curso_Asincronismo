@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/Ali-2121/curso_Asincronismo#readme",
   "dependencies": {
+    "node-fetch": "^3.2.7",
     "xmlhttprequest": "^1.8.0"
-  }
+  },
+  "type": "module"
 }
